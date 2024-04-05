@@ -2263,6 +2263,7 @@ files = [
     {file = "tzdata-2024.1-py2.py3-none-any.whl", hash = "sha256:9068bc196136463f5245e51efda838afa15aaeca9903f49050dfa2679db4d252"},
     {file = "tzdata-2024.1.tar.gz", hash = "sha256:2674120f8d891909751c38abcdfd386ac0a5a1127954fbc332af6b5ceae07efd"},
 <<<<<<< HEAD
+<<<<<<< HEAD
 ]
 
 [[package]]
@@ -2276,6 +2277,8 @@ files = [
     {file = "tzdata-2024.1.tar.gz", hash = "sha256:2674120f8d891909751c38abcdfd386ac0a5a1127954fbc332af6b5ceae07efd"},
 =======
 >>>>>>> 79f546f (worked with more notebooks)
+=======
+>>>>>>> 5e95ed8d38cb59d87e7c04f7e547a8fafe89ab24
 ]
 
 [[package]]
